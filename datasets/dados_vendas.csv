@@ -1,0 +1,6 @@
+pedido_id,cliente_id,produto,quantidade,preco_unitario,data_pedido
+101,1,Notebook,1,5500.0,2024-07-02
+102,2,Teclado,2,250.9,2024-08-15
+103,2,Mouse,1,180.5,2024-09-01
+104,3,Monitor,2,1399.99,2025-01-20
+105,4,Cabo HDMI,3,29.9,2023-12-12

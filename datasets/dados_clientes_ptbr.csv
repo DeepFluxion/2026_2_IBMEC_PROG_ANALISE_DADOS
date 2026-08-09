@@ -1,0 +1,6 @@
+id;nome;cidade;data_cadastro;idade;renda_mensal;limite_credito
+1;Ana;São Paulo;15/01/2024;28;4.500,50;12.000,00
+2;Bruno;Rio de Janeiro;03/11/2023;35;8.200,00;20.000,00
+3;Carla;Recife;21/05/2024;41;5.100,75;15.000,00
+4;Diego;Belo Horizonte;30/09/2022;23;3.200,00;8.000,00
+5;Eva;Curitiba;11/02/2025;30;9.800,95;25.000,00
